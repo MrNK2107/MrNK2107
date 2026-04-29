@@ -161,7 +161,7 @@ class NandaKishor:
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrNK2107/MrNK2107/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrNK2107/MrNK2107/output/github-contribution-grid-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/MrNK2107/MrNK2107/output/github-contribution-grid-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/MrNK2107/MrNK2107/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
   </picture>
 </div>
 
@@ -170,7 +170,7 @@ class NandaKishor:
 ## 🌐 3D Contribution Calendar
 
 <div align="center">
-  <img src="https://github.com/MrNK2107/MrNK2107/blob/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contributions" />
+  <img src="https://raw.githubusercontent.com/MrNK2107/MrNK2107/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contributions" />
 </div>
 
 ---
