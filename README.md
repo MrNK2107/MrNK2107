@@ -1,6 +1,7 @@
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=NANDA%20KISHOR&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Architect%20of%20Intelligent%20Systems%20%7C%20Full%20Stack%20Engineer&descAlignY=62&descSize=20"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=NANDA%20KISHOR&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Builder%20of%20Minds%20%26%20Machines&descAlignY=58&descSize=16"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=AI+Engineering+%7C+Multi-Agent+Systems+%F0%9F%A4%96;Full+Stack+Development+%7C+MERN+%2B+Next.js+%F0%9F%92%BB;Developing+System%3A+Self+%F0%9F%AA%9E;Psychology-Driven+AI+Architect+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Multi-Agent+Systems+%7C+LangChain+%7C+PyTorch+%F0%9F%A7%A0;React+%7C+Next.js+%7C+Spring+Boot+%E2%9A%99%EF%B8%8F;Currently+Building+System%3A+Self+%F0%9F%AA%9E" alt="Typing SVG" />
