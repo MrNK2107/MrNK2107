@@ -1,141 +1,109 @@
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Nanda%20Kishor&fontSize=64&fontColor=fff&fontAlignY=35&desc=CSE%20student%20%C2%B7%20AI%20%26%20Full-Stack%20Developer&descAlignY=60&descSize=20"/>
+<!-- Header -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:a855f7,100:0ea5e9&height=220&section=header&text=Nanda%20Kishor&fontSize=70&fontColor=ffffff&fontAlignY=36&desc=AI%20and%20Full-Stack%20Developer%20%7C%20Multi-Agent%20Systems&descAlignY=58&descSize=20&animation=fadeIn" alt="Nanda Kishor"/>
+</p>
 
-<a href="https://www.linkedin.com/in/nandakishorsp/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:nandakishor.sp.2k7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=MrNK2107&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=A855F7&center=true&vCenter=true&width=640&lines=Building+multi-agent+AI+systems;Shipping+full-stack+apps+with+Next.js+%2B+FastAPI;Making+AI+explainable+and+fair;CSE+%40+Saveetha+Engineering+College" alt="Typing intro"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nandakishorsp/"><img src="https://img.shields.io/badge/LinkedIn-nandakishorsp-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:nandakishor.sp.2k7@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=MrNK2107&style=for-the-badge&color=7c3aed&label=Profile+views" alt="Profile views"/>
+</p>
+
+---
 
 ## 👋 About me
 
-I'm **Nanda Kishor Suresh Priya**, a Computer Science and Engineering student at **Saveetha Engineering College, Chennai**.
-I want to become an AI and full-stack engineer who builds reliable, explainable software for safety-critical and public systems.
+<table>
+<tr>
+<td width="55%" valign="top">
 
-- 🧠 **Interests:** multi-agent AI systems, applied machine learning, AI fairness and safety, full-stack web apps
-- 🏁 **How I learn:** hackathons and competitions, plus daily DSA practice in Java ([leetcode-daily-progress](https://github.com/MrNK2107/leetcode-daily-progress))
-- 🤝 **Open to:** internships in AI / backend engineering, open-source AI tools, multi-agent systems
+I'm a **third-year Computer Science and Engineering student** at **Saveetha Engineering College, Chennai**.
+I build **reliable, explainable software** for safety-critical and public systems, mostly through hackathons and competitions.
+
+- 🧠 **Into:** multi-agent AI, applied ML, AI fairness and safety
+- 🛠️ **Build with:** Python, Java, TypeScript · Next.js · FastAPI · Spring Boot
+- 📈 **Daily habit:** DSA in Java → [leetcode-daily-progress](https://github.com/MrNK2107/leetcode-daily-progress)
+- 🤝 **Open to:** AI / backend internships and open-source collaborations
+
+</td>
+<td width="45%" valign="top">
+
+```ts
+const nanda = {
+  location: "Chennai, India",
+  focus: ["multi-agent AI", "full-stack"],
+  shipping: ["PACT", "RailSaathi",
+             "SentinelAI", "BIAS-0"],
+  nextUp: [
+    "deploy 2 projects to real users",
+    "system design fundamentals",
+    "AI / backend internship",
+  ],
+};
+```
+
+</td>
+</tr>
+</table>
+
+## 🛠️ Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,ts,js,react,nextjs,tailwind,nodejs,express,fastapi,spring,django&perline=12" alt="Languages and frameworks"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,mongodb,mysql,postgres,firebase,supabase,docker,gcp,vercel&perline=12" alt="AI, data and cloud"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,vscode,postman,selenium,figma,blender,arduino,unreal&perline=12" alt="Tools"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LLM%20Agents-7C3AED?style=flat-square&logo=openai&logoColor=white" alt="LLM agents"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+</p>
 
 ## 🚀 Featured projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**PACT**](https://github.com/MrNK2107/PACT) | Decentralised coordination for delivery-drone fleets: job sharing, charging and recovery from hub loss, radio dead zones and storms, with no central controller. *KPIT Sparkle, team PANGnovates.* | TypeScript, Python |
-| [**RailSaathi**](https://github.com/MrNK2107/RailSaathi) | English/Tamil Indian Railways passenger assistant: journey planning, cited ticketing answers and delay estimates; every answer shows where its data came from. | FastAPI, Google Cloud Run, PWA |
-| [**SentinelAI**](https://github.com/MrNK2107/SentinelAI) | Compound-hazard industrial safety digital twin with explainable alerts, deployed on IBM LinuxONE (s390x). | TypeScript |
-| [**BIAS-0**](https://github.com/MrNK2107/BIAS-0) | Fairness audits for lending, hiring or insurance decisions from decision logs alone, with honest error bars and regulator-ready reports. | TypeScript |
-
-## 🎯 Goals (next 6 months)
-
-- Deploy two of my projects with real users and collect feedback
-- Strengthen system design and backend fundamentals
-- Land an internship in AI or backend engineering
-
-## 🛠️ Skills
-
-### 💡 AI / ML / Data Science
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+<p align="center">
+  <a href="https://github.com/MrNK2107/PACT"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=MrNK2107&repo=PACT&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=c9d1d9&hide_border=true&border_radius=10&description_lines_count=3" alt="PACT"/></a>
+  <a href="https://github.com/MrNK2107/RailSaathi"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=MrNK2107&repo=RailSaathi&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=c9d1d9&hide_border=true&border_radius=10&description_lines_count=3" alt="RailSaathi"/></a>
+  <br/>
+  <a href="https://github.com/MrNK2107/SentinelAI"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=MrNK2107&repo=SentinelAI&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=c9d1d9&hide_border=true&border_radius=10&description_lines_count=3" alt="SentinelAI"/></a>
+  <a href="https://github.com/MrNK2107/BIAS-0"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=MrNK2107&repo=BIAS-0&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=c9d1d9&hide_border=true&border_radius=10&description_lines_count=3" alt="BIAS-0"/></a>
 </p>
 
-### 🖥️ Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+## 📊 GitHub analytics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MrNK2107&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=c9d1d9&hide_border=true&border_radius=10" alt="GitHub stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNK2107&layout=compact&langs_count=8&hide=jupyter%20notebook,html,css&bg_color=0d1117&title_color=c084fc&text_color=c9d1d9&hide_border=true&border_radius=10" alt="Top languages"/>
 </p>
 
-### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white"/>
+<p align="center">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=MrNK2107&background=0d1117&stroke=30363d&ring=a855f7&fire=f97316&currStreakNum=ffffff&currStreakLabel=c084fc&sideNums=ffffff&sideLabels=c084fc&dates=8b949e&hide_border=true&border_radius=10" alt="Streak"/>
 </p>
 
-### ⚙️ Backend & APIs
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MrNK2107&bg_color=0d1117&color=c9d1d9&line=a855f7&point=22d3ee&area=true&area_color=7c3aed&hide_border=true&radius=10&title_color=c084fc" alt="Contribution activity graph"/>
 </p>
 
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/MrNK2107/MrNK2107/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar"/>
 </p>
 
-### 🧪 Testing & Automation
-<p>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
-
-### 🔧 Tools & Design
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="http://www.github.com/MrNK2107">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MrNK2107&show_icons=true&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=7c3aed&bg_color=0d1117&hide_border=true&border_radius=12&include_all_commits=true" />
-</a>
-<a href="https://github-readme-streak-stats.herokuapp.com">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MrNK2107&stroke=a855f7&background=0d1117&ring=a855f7&fire=ff6b35&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=a855f7&dates=888888&hide_border=true&border_radius=12" />
-</a>
-
-<br/>
-
-<a href="https://github.com/MrNK2107">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNK2107&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=7c3aed&bg_color=0d1117&hide_border=true&border_radius=12&layout=compact&hide=jupyter%20notebook,html&custom_title=Top%20Languages" />
-</a>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrNK2107/MrNK2107/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrNK2107/MrNK2107/output/github-contribution-grid-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/MrNK2107/MrNK2107/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+    <img width="100%" src="https://raw.githubusercontent.com/MrNK2107/MrNK2107/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
   </picture>
-</div>
+</p>
 
-## 🌐 3D Contribution Calendar
+<p align="center"><i>"The psyche is an algorithm. Debug it, or be run by it."</i></p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MrNK2107/MrNK2107/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" />
-</div>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:a855f7,100:7c3aed&height=120&section=footer" alt=""/>
