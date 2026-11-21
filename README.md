@@ -9,23 +9,20 @@
 ## 👋 About me
 
 I'm **Nanda Kishor Suresh Priya**, a Computer Science and Engineering student at **Saveetha Engineering College, Chennai**.
-I want to become an AI and full-stack engineer who builds reliable, explainable software for real public problems: transport, health and civic accountability.
+I want to become an AI and full-stack engineer who builds reliable, explainable software for safety-critical and public systems.
 
-- 🧠 **Interests:** multi-agent AI systems, applied machine learning, full-stack web apps, civic tech
+- 🧠 **Interests:** multi-agent AI systems, applied machine learning, AI fairness and safety, full-stack web apps
 - 🏁 **How I learn:** hackathons and competitions, plus daily DSA practice in Java ([leetcode-daily-progress](https://github.com/MrNK2107/leetcode-daily-progress))
-- 🤝 **Open to:** internships in AI / backend engineering, open-source AI tools, civic-tech collaborations
+- 🤝 **Open to:** internships in AI / backend engineering, open-source AI tools, multi-agent systems
 
 ## 🚀 Featured projects
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**PACT**](https://github.com/MrNK2107/PACT) | Decentralised coordination for delivery-drone fleets: job sharing, charging and fault recovery with no central controller. *KPIT Sparkle, team PANGnovates.* | TypeScript, Python |
-| [**Prodrome**](https://github.com/MrNK2107/prodrome) | Explainable district-level health early warning from clinic, lab, workplace and environmental signals. [Live demo](https://mrnk2107.github.io/prodrome/) | Python |
-| [**RailSaathi**](https://github.com/MrNK2107/RailSaathi) | English/Tamil Indian Railways passenger assistant; every answer shows where its data came from. | FastAPI, Cloud Run, PWA |
-| [**JanDrishti**](https://github.com/MrNK2107/JanDrishti) | Checks public infrastructure claims against contractor reports and on-ground evidence. | JavaScript |
-| [**Saans**](https://github.com/MrNK2107/saans) | GenAI assistant that turns Delhi's daily air quality into a low-emission plan for a household. [Live](https://saans-pink-ten.vercel.app) | TypeScript, GenAI |
-| [**SentinelAI**](https://github.com/MrNK2107/SentinelAI) | Compound-hazard industrial safety digital twin with explainable alerts, deployed on IBM LinuxONE. | TypeScript |
-| [**DSA Master Portal**](https://github.com/MrNK2107/dsa-master-portal) | DSA theory, walkthroughs, Java solutions and interactive visualisations. | Java |
+| [**PACT**](https://github.com/MrNK2107/PACT) | Decentralised coordination for delivery-drone fleets: job sharing, charging and recovery from hub loss, radio dead zones and storms, with no central controller. *KPIT Sparkle, team PANGnovates.* | TypeScript, Python |
+| [**RailSaathi**](https://github.com/MrNK2107/RailSaathi) | English/Tamil Indian Railways passenger assistant: journey planning, cited ticketing answers and delay estimates; every answer shows where its data came from. | FastAPI, Google Cloud Run, PWA |
+| [**SentinelAI**](https://github.com/MrNK2107/SentinelAI) | Compound-hazard industrial safety digital twin with explainable alerts, deployed on IBM LinuxONE (s390x). | TypeScript |
+| [**BIAS-0**](https://github.com/MrNK2107/BIAS-0) | Fairness audits for lending, hiring or insurance decisions from decision logs alone, with honest error bars and regulator-ready reports. | TypeScript |
 
 ## 🎯 Goals (next 6 months)
 
@@ -116,7 +113,7 @@ I want to become an AI and full-stack engineer who builds reliable, explainable 
 <br/>
 
 <a href="https://github.com/MrNK2107">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNK2107&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=7c3aed&bg_color=0d1117&hide_border=true&border_radius=12&layout=compact&custom_title=Top%20Languages" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNK2107&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=7c3aed&bg_color=0d1117&hide_border=true&border_radius=12&layout=compact&hide=jupyter%20notebook,html&custom_title=Top%20Languages" />
 </a>
 
 </div>
@@ -131,6 +128,12 @@ I want to become an AI and full-stack engineer who builds reliable, explainable 
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrNK2107/MrNK2107/output/github-contribution-grid-snake.svg"/>
     <img src="https://raw.githubusercontent.com/MrNK2107/MrNK2107/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
   </picture>
+</div>
+
+## 🌐 3D Contribution Calendar
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MrNK2107/MrNK2107/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" />
 </div>
 
 ---
