@@ -80,8 +80,8 @@ const nanda = {
 ## 📊 GitHub analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MrNK2107&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=c9d1d9&hide_border=true&border_radius=10" alt="GitHub stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNK2107&layout=compact&langs_count=8&hide=jupyter%20notebook,html,css&bg_color=0d1117&title_color=c084fc&text_color=c9d1d9&hide_border=true&border_radius=10" alt="Top languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MrNK2107&show_icons=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=c9d1d9&hide_border=true&border_radius=10" alt="GitHub stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNK2107&layout=compact&langs_count=6&card_width=467&hide=jupyter%20notebook,html,css&bg_color=0d1117&title_color=c084fc&text_color=c9d1d9&hide_border=true&border_radius=10" alt="Top languages"/>
 </p>
 
 <p align="center">
