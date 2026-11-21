@@ -1,71 +1,39 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=NANDA%20KISHOR&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Architect%20of%20Intelligent%20Systems%20%7C%20Full%20Stack%20Engineer&descAlignY=62&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Nanda%20Kishor&fontSize=64&fontColor=fff&fontAlignY=35&desc=CSE%20student%20%C2%B7%20AI%20%26%20Full-Stack%20Developer&descAlignY=60&descSize=20"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=AI+Engineering+%7C+Multi-Agent+Systems+%F0%9F%A4%96;Full+Stack+Development+%7C+MERN+%2B+Next.js+%F0%9F%92%BB;Developing+System%3A+Self+%F0%9F%AA%9E;Psychology-Driven+AI+Architect+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Multi-Agent+Systems+%7C+LangChain+%7C+PyTorch+%F0%9F%A7%A0;React+%7C+Next.js+%7C+Spring+Boot+%E2%9A%99%EF%B8%8F;Currently+Building+System%3A+Self+%F0%9F%AA%9E" alt="Typing SVG" />
-</a>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=MrNK2107&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
-  <a href="https://github.com/MrNK2107">
-    <img src="https://img.shields.io/github/followers/MrNK2107?logo=github&style=for-the-badge&color=7c3aed&labelColor=1c1917&label=FOLLOWERS" />
-  </a>
-</p>
-
+<a href="https://www.linkedin.com/in/nandakishorsp/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:nandakishor.sp.2k7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=MrNK2107&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
 </div>
 
----
+## 👋 About me
 
-## 🧠 System Configuration
+I'm **Nanda Kishor Suresh Priya**, a Computer Science and Engineering student at **Saveetha Engineering College, Chennai**.
+I want to become an AI and full-stack engineer who builds reliable, explainable software for real public problems: transport, health and civic accountability.
 
-```python
-class NandaKishor:
-    def __init__(self):
-        self.name       = "Nanda Kishor"
-        self.alias      = "MrNK2107"
-        self.role       = "AI/ML Engineer & Full Stack Developer"
-        self.location   = "Chennai, India 🇮🇳"
-        self.email      = "nandakishor.sp.2k7@gmail.com"
+- 🧠 **Interests:** multi-agent AI systems, applied machine learning, full-stack web apps, civic tech
+- 🏁 **How I learn:** hackathons and competitions, plus daily DSA practice in Java ([leetcode-daily-progress](https://github.com/MrNK2107/leetcode-daily-progress))
+- 🤝 **Open to:** internships in AI / backend engineering, open-source AI tools, civic-tech collaborations
 
-        self.research_interests = [
-            "Multi-Agent AI Systems & LangChain",
-            "Behavioral AI & Psychological Modeling",
-            "Semantic Intelligence & Autonomous Pipelines",
-            "Human-Computer Interaction through AI Nudges"
-        ]
+## 🚀 Featured projects
 
-        self.current_stack = {
-            "frontend":     "React & Next.js",
-            "backend":      "Spring Boot, Django & Express.js",
-            "intelligence": "PyTorch, TensorFlow & OpenCV",
-            "deployment":   "Docker & Firebase"
-        }
+| Project | What it does | Stack |
+|---|---|---|
+| [**PACT**](https://github.com/MrNK2107/PACT) | Decentralised coordination for delivery-drone fleets: job sharing, charging and fault recovery with no central controller. *KPIT Sparkle, team PANGnovates.* | TypeScript, Python |
+| [**Prodrome**](https://github.com/MrNK2107/prodrome) | Explainable district-level health early warning from clinic, lab, workplace and environmental signals. [Live demo](https://mrnk2107.github.io/prodrome/) | Python |
+| [**RailSaathi**](https://github.com/MrNK2107/RailSaathi) | English/Tamil Indian Railways passenger assistant; every answer shows where its data came from. | FastAPI, Cloud Run, PWA |
+| [**JanDrishti**](https://github.com/MrNK2107/JanDrishti) | Checks public infrastructure claims against contractor reports and on-ground evidence. | JavaScript |
+| [**Saans**](https://github.com/MrNK2107/saans) | GenAI assistant that turns Delhi's daily air quality into a low-emission plan for a household. [Live](https://saans-pink-ten.vercel.app) | TypeScript, GenAI |
+| [**SentinelAI**](https://github.com/MrNK2107/SentinelAI) | Compound-hazard industrial safety digital twin with explainable alerts, deployed on IBM LinuxONE. | TypeScript |
+| [**DSA Master Portal**](https://github.com/MrNK2107/dsa-master-portal) | DSA theory, walkthroughs, Java solutions and interactive visualisations. | Java |
 
-    def get_status(self):
-        return {
-            "building": "System: Self — a LifeOS that forces you to evolve 🪞",
-            "learning": "LangChain & Advanced AI Tooling",
-            "open_to":  ["Impactful Collaborations", "AI x Psychology Projects"]
-        }
+## 🎯 Goals (next 6 months)
 
-    def greet(self):
-        return "The psyche is an algorithm. Debug it or be run by it. 🧬"
-```
+- Deploy two of my projects with real users and collect feedback
+- Strengthen system design and backend fundamentals
+- Land an internship in AI or backend engineering
 
----
-
-## 🚀 Current Focus
-
-> 🔭 Building **System: Self** — a LifeOS that pits you against your shadow self — a future version of you — forcing growth through psychological friction and AI-powered nudges  
-> 🌱 Mastering **LangChain** for intelligent multi-agent pipelines  
-> 👥 Open to **collaborating** on AI, psychology-driven tech, or civic platforms  
-> 📬 Reach me at **[nandakishor.sp.2k7@gmail.com](mailto:nandakishor.sp.2k7@gmail.com)**
-
----
-
-## 🛠️ Tech Stack & Skills
+## 🛠️ Skills
 
 ### 💡 AI / ML / Data Science
 <p>
@@ -167,38 +135,4 @@ class NandaKishor:
 
 ---
 
-## 🌐 3D Contribution Calendar
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MrNK2107/MrNK2107/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contributions" />
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/MrNK2107" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://www.github.com/MrNK2107" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:nandakishor.sp.2k7@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Quote I Live By
-
-> *"The psyche is an algorithm. Debug it, or be run by it."*
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer"/>
-
-</div>
